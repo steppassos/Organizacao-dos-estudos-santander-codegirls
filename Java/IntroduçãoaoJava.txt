@@ -1,0 +1,26 @@
+
+# Linguagem Java 
+
+Java é uma linguagem interpretada - orientada a objeto, criada em maio de 1995;
+
+ - Diferente das linguagens compiladas (onde a compilação do código se dá no desenvolvimento), a linguagem Java é compilada para um bytecode, que por sua vez é interpretado por uma máquina JVM;
+ - A linguagem de programação JAVA é a convencional, mas não é a única da plataforma; Não está presa a um único sistema operacional;
+
+### Siglas
+
+ - JDK = Kit de desenvolvimento Java (serve para programar e desenvolver o código) - ele compila o código fonte (.java) em bytecode (.class). É um ambiente voltado para os desenvolvedores - Java Development Kit (faz parte do funcionamento das IDE's)  
+ - JRE = Possui as classe/bibliotecas padrões JAVA / Possui todos os componentes para rodar os programas / o programa roda em qualquer lugar;
+ - JVM = Máquina Virtual do Java responsável por executar o bytecode (.class) / todos os programas;
+
+### Fases 
+
+ - Escreve o código Fonte (Programa Java)  - Java Source File;
+ - Compilar e gerar o arquivo Bytecode (JDK) - Java Compiler & Java Class File;
+ - Executa o programa e a JVM lê o arquivo compilado  (JVM) - Java Virtual Machine;
+ - Interpretação do programa (JRE) - Operating System.
+
+## IDE
+
+Ambiente de desenvolvimento integrado que combina ferramentas comuns de desenvolvimento em uma única interface prática de usuário, o GUI, facilitando o desenvolvimento de aplicações. 
+ex: IntelliJ, Eclipse > ferramentas
+
